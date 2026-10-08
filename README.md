@@ -1,4 +1,5 @@
 # docker-website-demo
+![Docker Build](https://github.com/shaik204/docker-website-demo/actions/workflows/docker-build.yml/badge.svg)
 
 A simple web page packed into a Docker container and served by nginx. Built to learn the basics of Docker.
 
