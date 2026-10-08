@@ -22,5 +22,8 @@ Then open `localhost:8080` in your browser.
 ## Result
 ![Website running in Docker](Docker_webpage%202026-10-08%20073754.png)
 
+## Automated build
+A GitHub Actions workflow builds the Docker image automatically every time a change is pushed. The badge at the top shows whether the latest build passed.
+
 ## Tools
 Docker, nginx, HTML
